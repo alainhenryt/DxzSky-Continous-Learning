@@ -5,3 +5,5 @@ It always seems impossible  untill it is done - by Nelson Mandela
 Live long and prosper - by Spock
 
 Great work 
+
+Testing git fetch command.
